@@ -18,8 +18,8 @@ status-website:
   introTitle: "**Pete's** Internet access monitor."
   introMessage: GUSTAVE Status Page
   navbar:
-    - title: Status
-      href: /
+    - title: My Status
+      href: https://www.facebook.com/burke.peter
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
