@@ -22,19 +22,19 @@
     "url": "http://camera.flyfpv.ca:3888",
     "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
     "slug": "my-place",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-12-24": 0
+      "2023-12-24": 14
     }
   }
 ]
