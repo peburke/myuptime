@@ -5,6 +5,8 @@ repo: myuptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: MyPlace
+    url: http://camera.flyfpv.ca:3888
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
