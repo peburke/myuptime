@@ -16,5 +16,23 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MyPlace",
+    "url": "http://camera.flyfpv.ca:3888",
+    "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
+    "slug": "my-place",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
+    "dailyMinutesDown": {}
   }
 ]
