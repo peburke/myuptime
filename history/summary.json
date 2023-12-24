@@ -1,5 +1,25 @@
 [
   {
+    "name": "MyPlace",
+    "url": "http://camera.flyfpv.ca:3888",
+    "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
+    "slug": "my-place",
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 324,
+    "timeDay": 324,
+    "timeWeek": 324,
+    "timeMonth": 324,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2023-12-24": 14
+    }
+  },
+  {
     "name": "Google",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -10,31 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "MyPlace",
-    "url": "http://camera.flyfpv.ca:3888",
-    "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
-    "slug": "my-place",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
-    "dailyMinutesDown": {
-      "2023-12-24": 14
-    }
   }
 ]
