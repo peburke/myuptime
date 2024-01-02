@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
     "slug": "my-place",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 321,
-    "timeDay": 330,
-    "timeWeek": 324,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 319,
+    "timeDay": 283,
+    "timeWeek": 312,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2023-12-24": 14
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 83,
-    "timeWeek": 78,
-    "timeMonth": 91,
-    "timeYear": 91,
+    "time": 93,
+    "timeDay": 147,
+    "timeWeek": 87,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   }
 ]
