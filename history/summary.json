@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 333,
-    "timeDay": 247,
-    "timeWeek": 334,
+    "time": 332,
+    "timeDay": 246,
+    "timeWeek": 325,
     "timeMonth": 332,
-    "timeYear": 333,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2024-01-02": 82,
       "2023-12-24": 14
@@ -27,17 +27,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 223,
-    "timeWeek": 125,
+    "time": 97,
+    "timeDay": 226,
+    "timeWeek": 124,
     "timeMonth": 98,
-    "timeYear": 98,
-    "dailyMinutesDown": {
-      "2024-02-12": 8
-    }
+    "timeYear": 97,
+    "dailyMinutesDown": {}
   }
 ]
