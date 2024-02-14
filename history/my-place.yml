@@ -1,7 +1,7 @@
 url: http://camera.flyfpv.ca:3888
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-14T19:25:56.632Z
+status: up
+code: 200
+responseTime: 337
+lastUpdated: 2024-02-14T20:15:53.215Z
 startTime: 2023-12-24T00:26:41.676Z
 generator: Upptime <https://github.com/upptime/upptime>
