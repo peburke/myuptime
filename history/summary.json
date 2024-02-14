@@ -4,7 +4,7 @@
     "url": "http://camera.flyfpv.ca:3888",
     "icon": "https://icons.duckduckgo.com/ip3/camera.flyfpv.ca.ico",
     "slug": "my-place",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 338,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-01-02": 82,
       "2023-12-24": 14
     }
